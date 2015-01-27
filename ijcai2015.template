@@ -1,6 +1,6 @@
 %%%% ijcai15.tex
 
-\typeout{Abstract Monte Carlo Methods for Inference in Highly Constrained Domains}
+\typeout{My IJCAI Paper}
 
 % These are the instructions for authors for IJCAI-15.
 % They are the same as the ones for IJCAI-11 with superficical wording
@@ -45,7 +45,7 @@
 % page charge instructions.
 % Put where the files are available in the appropriate places.
 
-\title{Abstract Monte Carlo Methods for Inference in Highly Constrained Domains}
+\title{My IJCAI Paper}
 
 
 \begin{document}
